@@ -1,18 +1,26 @@
+
 <?php include 'header.php'; ?>
+
+<div id="content">
+
+<div id="ajax_pull">
+
 <div class="midTier">
-	<img src="brand.jpg" alt="">
+	<div id="sliderWrapper" class="glow">
+			<?php include './nivo-slider/demo/demo.php'; ?>
+		</div><!-- end of sliderwrapper -->
 </div><!-- end of midTier -->
 <div class="bottomTier" bac>
 	<img src="brand.jpg" alt="">
 </div><!-- end of bottomTier -->
 
-<?php include 'footer.php'; ?>
-<div id="content">
-<div id="ajax_pull">
+
 
 
 </div>	
 </div>
+
+<?php include 'footer.php'; ?>
 
 
 

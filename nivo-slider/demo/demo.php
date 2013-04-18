@@ -5,13 +5,13 @@
         
         <div id="slider" class="nivoSlider">
             <img src="images/slide1.jpg" data-thumb="images/slide1.jpg" alt="" title="#htmlcaption2" />
-            <img src="images/slide2.jpg" data-thumb="images/slide2.jpg" alt="" title="This is an example of a caption" />
+            <img src="images/slide2.jpg" data-thumb="images/slide2.jpg" alt="" title="View Gallery" />
             <img src="images/slide3.jpg" data-thumb="images/slide3.jpg" alt="" />
             <img src="images/slide4.jpg" data-thumb="images/slide4.jpg" alt="" title="#htmlcaption" />
         </div>
 
         <div id="htmlcaption" class="nivo-html-caption">
-            <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>. 
+            <strong>Click</strong> to begin checking out <a href="gallery.php">our gallerys.</a>. 
         </div>
 
         <div id="htmlcaption2" class="nivo-html-caption">
